@@ -57,3 +57,6 @@ a { outline : 0 !important; }
     -moz-border-radius: 3px;
     border-radius: 3px;
 }
+.single_variation_wrap {
+    display: none;
+}
