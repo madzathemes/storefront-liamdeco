@@ -20,11 +20,6 @@ Version:       1
 
 a { outline : 0 !important; }
 
-form.woocommerce-checkout input[type="text"] {
- border-radius: 3px;
- background-color: #ccc;
- color: #444;
-}
 #billing_company_field,
 #billing_phone_field {
   display:none;
