@@ -21,7 +21,8 @@ Version:       1
 a { outline : 0 !important; }
 
 #billing_company_field,
-#billing_phone_field {
+#billing_phone_field,
+.product_meta {
   display:none;
 }
 
