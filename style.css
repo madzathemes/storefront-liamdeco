@@ -47,3 +47,13 @@ form.woocommerce-checkout input[type="text"] {
 .single-product div.product .woocommerce-product-gallery .flex-viewport {
   margin-bottom: 8px;
 }
+
+.input-text, input[type=email], input[type=password], input[type=search], input[type=text], input[type=url], textarea {
+    background-color: #ffffff;
+    color: #43454b;
+    border: 0;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.125);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
