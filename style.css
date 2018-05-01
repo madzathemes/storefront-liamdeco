@@ -63,3 +63,6 @@ a { outline : 0 !important; }
 .woocommerce-variation-price {
   font-size: 31px;
 }
+.builtin-description {
+  padding: 30px 0px 20px 0px;
+}
