@@ -1,0 +1,16 @@
+/*
+Theme Name:    LiamDeco Child Theme
+Theme URI: 		 https://www.liamdeco.com
+Description:   LiamDeco WordPress Child Theme
+Author: 		   Madars Bitenieks
+Author URI: 	 https://www.liamdeco.com
+Template:      storefront
+Version:       1
+*/
+
+@import url("../storefront/style.css");
+
+.site-header {
+  background: white;
+}
+a { outline : 0 !important; }
