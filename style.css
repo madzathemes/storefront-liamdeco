@@ -25,6 +25,10 @@ form.woocommerce-checkout input[type="text"] {
  background-color: #ccc;
  color: #444;
 }
+#billing_company_field,
+#billing_phone_field {
+  display:none;
+}
 
 .single-product div.product .woocommerce-product-gallery.woocommerce-product-gallery--columns-5 .flex-control-thumbs li {
     width: 18.4%;
