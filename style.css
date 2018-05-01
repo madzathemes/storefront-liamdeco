@@ -11,6 +11,6 @@ Version:       1
 @import url("../storefront/style.css");
 
 .site-header {
-  background: white;
+  background: #f5f5f5;
 }
 a { outline : 0 !important; }
