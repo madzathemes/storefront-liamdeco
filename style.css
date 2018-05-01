@@ -19,3 +19,9 @@ form.woocommerce-checkout input[type="text"] {
  background-color: #ccc;
  color: #444;
 }
+@media (min-width: 768px)
+.storefront-full-width-content.single-product div.product .woocommerce-product-gallery.woocommerce-product-gallery--columns-5 .flex-control-thumbs li {
+    width: 18.4%;
+    float: left;
+    margin-right: 2%;
+}
