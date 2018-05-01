@@ -60,3 +60,6 @@ a { outline : 0 !important; }
 .single_variation_wrap {
     display: none;
 }
+.woocommerce-variation-price {
+  font-size: 21px;
+}
