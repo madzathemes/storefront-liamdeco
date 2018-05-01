@@ -31,9 +31,9 @@ form.woocommerce-checkout input[type="text"] {
 }
 .single-product div.product .woocommerce-product-gallery .flex-control-thumbs li {
     list-style: none;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     cursor: pointer;
 }
 .single-product div.product .woocommerce-product-gallery .flex-viewport {
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
