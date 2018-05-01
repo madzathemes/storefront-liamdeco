@@ -14,3 +14,8 @@ Version:       1
   background: #f5f5f5;
 }
 a { outline : 0 !important; }
+form.woocommerce-checkout input[type="text"] {
+ border-radius: 3px;
+ background-color: #ccc;
+ color: #444;
+}
