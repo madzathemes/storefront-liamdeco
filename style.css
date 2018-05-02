@@ -77,15 +77,3 @@ a { outline : 0 !important; }
     border-bottom: 1px solid #f1f1f1;
 }
 }
-
-@media (min-width: 768px) {
-.site-header {
-    padding-top: 1.41575em;;
-}
-}
-
-@media (min-width: 768px) {
-.site-header .site-branding img {
-    max-width: 80%;
-}
-}
