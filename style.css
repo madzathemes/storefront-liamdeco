@@ -9,7 +9,13 @@ Version:       1
 */
 
 @import url("../storefront/style.css");
-
+.a {
+  -webkit-transition: all 100ms ease-out!important;
+  -moz-transition: all 100ms ease-out!important;
+  -ms-transition: all 100ms ease-out!important;
+  -o-transition: all 100ms ease-out!important;
+  transition: all 100ms ease-out!important;
+}
 .site-header {
   background: #fff;
 }
@@ -84,4 +90,5 @@ a { outline : 0 !important; }
 }
 .site-header-cart .cart-contents {
   padding: 20px 0px;
+}
 }
