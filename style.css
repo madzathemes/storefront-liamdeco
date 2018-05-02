@@ -104,7 +104,8 @@ a { outline : 0 !important; }
   .secondary-navigation {
     margin-bottom: 0;
   }
-  .site-search {
+  .site-search,
+  .secondary-navigation {
     margin-top: 20px;
   }
   .site-header .site-branding {
