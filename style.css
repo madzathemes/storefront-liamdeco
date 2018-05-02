@@ -103,6 +103,8 @@ a { outline : 0 !important; }
   .custom-logo-link, .site-branding, .site-header-cart, .site-logo-anchor, .site-logo-link, .site-search,
   .secondary-navigation {
     margin-bottom: 0;
+  }
+  .site-search {
     margin-top: 20px;
   }
   .site-header .site-branding {
