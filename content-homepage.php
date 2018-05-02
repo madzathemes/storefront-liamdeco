@@ -9,4 +9,6 @@
 <?php
 $featured_image = get_the_post_thumbnail_url( get_the_ID(), 'thumbnail' );
 ?>
+<div class="liamhome-slider">
 <?php echo do_shortcode('[rev_slider alias="product-showcase"]'); ?>
+</div>
