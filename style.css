@@ -9,7 +9,7 @@ Version:       1
 */
 
 @import url("../storefront/style.css");
-.a {
+a {
   -webkit-transition: all 100ms ease-out!important;
   -moz-transition: all 100ms ease-out!important;
   -ms-transition: all 100ms ease-out!important;
