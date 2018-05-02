@@ -125,4 +125,5 @@ a { outline : 0 !important; }
 }
 .woocommerce-breadcrumb a, a.woocommerce-review-link, .product_meta a, .woocommerce-breadcrumb {
     color: #b1b1b1;
+    font-size: 13px;
 }
