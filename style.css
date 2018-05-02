@@ -103,9 +103,13 @@ a { outline : 0 !important; }
   .custom-logo-link, .site-branding, .site-header-cart, .site-logo-anchor, .site-logo-link, .site-search,
   .secondary-navigation {
     margin-bottom: 0;
+    margin-top: 20px;
   }
   .site-header .site-branding {
     padding: 10px 0px;
+  }
+  .woocommerce-active .site-header .site-search {
+    margin-top: 19px;
   }
 }
 .main-navigation ul li a:hover,
