@@ -82,3 +82,6 @@ a { outline : 0 !important; }
     font-weight: 600;
     font-size: 14px;
 }
+.site-header-cart .cart-contents {
+  padding: 20px 0px;
+}
