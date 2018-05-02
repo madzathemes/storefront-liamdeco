@@ -102,3 +102,6 @@ a { outline : 0 !important; }
 .main-navigation ul li a:hover, .main-navigation ul li:hover > a, .site-title a:hover, a.cart-contents:hover, .site-header-cart .widget_shopping_cart a:hover, .site-header-cart:hover > li > a, .site-header ul.menu li.current-menu-item > a {
     color: #ff93c5;
 }
+.woocommerce-breadcrumb a, a.woocommerce-review-link, .product_meta a, .woocommerce-breadcrumb {
+    color: #b1b1b1;
+}
