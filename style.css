@@ -66,3 +66,7 @@ a { outline : 0 !important; }
 .builtin-description {
   padding: 30px 0px 20px 0px;
 }
+
+.widget_shopping_cart_content .wcppec-cart-widget-button {
+  display:none;
+}
